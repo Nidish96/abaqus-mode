@@ -5,8 +5,8 @@
 ;; URL:      http://www.polymerFEM.com
 ;;
 ;; Modified by: James Lockley <safricanjames@yahoo.co.uk>
-;;              Martin Lüthi
-;; Modified by: Nidish Narayanaa Balaji <nidbid@gmail.com>
+;;              Martin LÃ¼thi
+;; Modified by: Nidish Narayanaa Balaji <nidbid@gmail.com> (on 2020/08/14)
 ;;
 ;; Installation:
 ;;    add the following lines to your .emacs file:
